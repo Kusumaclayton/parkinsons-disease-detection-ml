@@ -34,6 +34,7 @@ This project uses publicly available datasets:
 
 Voice Dataset:
 https://www.kaggle.com/datasets/nidaguler/parkinsons-data-set
+https://www.kaggle.com/datasets/pypiahmad/oxford-parkinsons-disease-detection-dataset
 
 Spiral Drawings Dataset:
 https://www.kaggle.com/datasets/kmader/parkinsons-drawings
